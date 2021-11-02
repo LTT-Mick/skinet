@@ -1,0 +1,22 @@
+.nav-bar {
+    &__logo {
+        max-height: 3rem;
+    }
+
+    nav {
+        font-size: larger;
+    }
+
+    &__cart-no {
+        position: absolute;
+        top: -12px;
+        right: 32px;
+        min-height: 25px;
+        min-width: 25px;
+        border-radius: 50%;
+        font-size: 1rem;
+        background: blue;
+        color: white;
+        text-align: center;
+    }
+}
