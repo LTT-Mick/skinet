@@ -1,0 +1,10 @@
+.product-details {
+    &__icon-plus, &__icon-minus {
+        cursor: pointer;
+        font-size: 2rem;
+    }
+
+    &__number {
+        font-size: 1.5rem;
+    }
+}
