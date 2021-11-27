@@ -1,0 +1,12 @@
+.home {
+    &__image {
+        display: block;
+        width: 100%;
+        object-fit: cover;
+        height: 80vh;
+    }
+
+    &__featured {
+        height: 10vh;
+    }
+}
