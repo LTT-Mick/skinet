@@ -1,0 +1,14 @@
+.basket {
+    &__img {
+        max-height: 4rem;
+    }
+
+    &__remove {
+        font-size: 2em;
+    }
+
+    i:hover {
+        cursor: pointer;
+    }
+
+}
